@@ -42,10 +42,9 @@ Running the server:
 [-] 127.0.0.1:12345 | Room Name: IDK
 
 [*] Server Created!
-
-Executar o cliente:
 ```
 
+Executar o cliente:
 ```bash
 [-] Internet Procotol: 127.0.0.1
 [-] Server Port: 12345
