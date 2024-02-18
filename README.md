@@ -44,7 +44,7 @@ Running the server:
 [*] Server Created!
 ```
 
-Executar o cliente:
+Execute the client:
 ```bash
 [-] Internet Procotol: 127.0.0.1
 [-] Server Port: 12345
